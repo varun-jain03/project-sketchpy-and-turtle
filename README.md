@@ -1,1 +1,0 @@
-# project-sketchpy-and-turtle
